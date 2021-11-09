@@ -16,7 +16,7 @@ I am starting in the area of ​​programming, I am taking courses and improvin
 ![JAVASCRIPT](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png)&nbsp;&nbsp;
 ![BOOTSTRAP](https://cdn-icons-png.flaticon.com/64/5968/5968672.png)&nbsp;&nbsp;
 ![MYSQL](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-64.png)<br>
-![GIT](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png)
+![GIT](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-64.png)
 
 # My Contacts:
 
