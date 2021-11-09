@@ -1,5 +1,13 @@
 # Abner André Ananias
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerndr&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&layout=compact)](https://github.com/abnerndr/github-readme-stats)
+
+
+
+
+
 # About:
 My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge in the technology market, I'm always looking to evolve my knowledge and skills, I'm looking for a job in the technology area. I'm starting to study "Software Engineering" this year 2022, and I intend to commit myself and bring innovation and results to this area. See below for some of my skills.
 
