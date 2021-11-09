@@ -13,7 +13,7 @@ I am starting in the area of ​​programming, I am taking courses and improvin
 ![HTML5](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png)&nbsp;&nbsp;
 ![CSS3](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png)&nbsp;&nbsp;
 ![JAVASCRIPT](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png)&nbsp;&nbsp;
-![BOOTSTRAP](https://cdn.iconfinder.com/stored_data/107894/64/png?token=1636481220-SMsyKOj9xDV7dN6thPgYb%2Bghn1mnd3eL3Bywy2Mzx%2Bs%3D)&nbsp;&nbsp;
+![BOOTSTRAP](https://cdn.iconfinder.com/stored_data/107894/128/png?token=1636481220-SMsyKOj9xDV7dN6thPgYb%2Bghn1mnd3eL3Bywy2Mzx%2Bs%3D)&nbsp;&nbsp;
 ![MYSQL](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-64.png)
 
 # My Contacts:
