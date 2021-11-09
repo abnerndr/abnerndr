@@ -1,7 +1,7 @@
 # Abner André Ananias
 
 # About:
-I am starting in the area of ​​programming, I am taking courses and improving my projects every day. Before I worked in the IT part in maintenance. I want to be able to work in a company focused on programming to learn and show my skills, I try to evolve and bring the best to the company.
+My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge in the technology market, I'm always looking to evolve my knowledge and skills, I'm looking for a job in the technology area. I'm starting to study "Software Engineering" this year 2022, and I intend to commit myself and bring innovation and results to this area. See below for some of my skills.
 
 # Technologies:
 
