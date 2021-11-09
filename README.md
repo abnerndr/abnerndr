@@ -5,10 +5,11 @@ I am starting in the area of ​​programming, I am taking courses and improvin
 
 # Technologies:
 
-* HTML, CSS, JavaScript;
+* HTML5, CSS3, JavaScript;
 * Bootstrap, UX|UI Design;
-* IONIC, NextJS, TypeScript;
-* MySQL, SQL;
+* IONIC, NextJS, ReactJS;
+* Git, Github, NPM;
+* MySQL, Notion;
 
 ![HTML5](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png)&nbsp;&nbsp;
 ![CSS3](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png)&nbsp;&nbsp;
