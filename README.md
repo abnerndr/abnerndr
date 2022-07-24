@@ -19,11 +19,13 @@ My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge
 * Git, Github, NPM;
 * MySQL, Notion;
 
+![REACT](https://img.icons8.com/color/60/react-native.png)&nbsp;&nbsp;
+![JAVASCRIPT](https://img.icons8.com/color/60/javascript--v1.png)&nbsp;&nbsp;
+![NEXTJS](https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-2/15/nextjs-64.png)&nbsp;&nbsp;
 ![HTML5](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png)&nbsp;&nbsp;
 ![CSS3](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png)&nbsp;&nbsp;
-![JAVASCRIPT](https://img.icons8.com/color/48/javascript--v1.png)&nbsp;&nbsp;
-![BOOTSTRAP](https://cdn-icons-png.flaticon.com/64/5968/5968672.png)&nbsp;&nbsp;
-![MYSQL](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-64.png)<br><br>
+![BOOTSTRAP](https://cdn-icons-png.flaticon.com/64/5968/5968672.png)<br><br>
+
 ![GIT](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-64.png)&nbsp;&nbsp;
 ![NOTION](https://img.icons8.com/doodle/64/notion.png)&nbsp;&nbsp;
 ![NPM](https://cdn1.iconfinder.com/data/icons/programing-development-8/24/npm_logo-64.png)&nbsp;&nbsp;
