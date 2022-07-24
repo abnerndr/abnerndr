@@ -22,8 +22,8 @@ My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge
 ![REACT](https://img.icons8.com/color/60/react-native.png)&nbsp;&nbsp;
 ![JAVASCRIPT](https://img.icons8.com/color/60/javascript--v1.png)&nbsp;&nbsp;
 ![NEXTJS](https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-60.png)&nbsp;&nbsp;
-![HTML5](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-60.png)&nbsp;&nbsp;
-![CSS3](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-60.png)&nbsp;&nbsp;
+//![HTML5](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-60.png)&nbsp;&nbsp;
+//![CSS3](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-60.png)&nbsp;&nbsp;
 ![ANDROID](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_android-60.png)&nbsp;&nbsp;
 ![IOS](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/iOS-60.png)<br><br>
 
