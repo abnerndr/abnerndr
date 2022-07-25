@@ -26,7 +26,7 @@ My name is Abner, I'm 21 years old and I'm a systems analysis and development st
 ![REACT](https://img.icons8.com/color/60/react-native.png)&nbsp;&nbsp;
 ![JAVASCRIPT](https://img.icons8.com/color/60/javascript--v1.png)&nbsp;&nbsp;
 ![TYPESCRIPT](https://img.icons8.com/fluency/60/typescript.png)&nbsp;&nbsp;
-![NEXTJS](https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-58.png)&nbsp;&nbsp;
+![NEXTJS](https://i.im.ge/2022/07/25/FIXumX.png)&nbsp;&nbsp;
 ![ANDROID](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_android-58.png)&nbsp;&nbsp;
 ![IOS](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/iOS-58.png)<br><br>
 
