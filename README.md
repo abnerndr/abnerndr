@@ -9,7 +9,8 @@
 
 
 # About:
-My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge in the technology market, I'm always looking to evolve my knowledge and skills, I'm looking for a job in the technology area. I'm starting to study "Software Engineering" this year 2022, and I intend to commit myself and bring innovation and results to this area. See below for some of my skills.
+My name is Abner, I'm 21 years old and I'm a systems analysis and development student. I work with fullstack development for 1 year and I seek innovation and new knowledge in the technology market, I am always looking to evolve my knowledge and skills, I always want to reinvent myself and overcome myself and create new things and learn from them.
+
 
 # Technologies:
 * My Skills and Leguages<br><br>
