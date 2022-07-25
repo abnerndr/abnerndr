@@ -13,16 +13,16 @@ My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge
 
 # Technologies:
 
-**Front-end:**
-> React, NextJs, Ionic5, TailWind;
-**Front-end (study):**
-> React Native, NativeBase;
-**Back-end:**
-> Strapi
-**Back-end (study):**
-> NodeJs, AdonisJs, Spring Boot
-**Skills:**
-> Git, GitHub, Jira, Yarn, Npm
+**Front-end:**<br><br>
+> React, NextJs, Ionic5, TailWind;<br><br>
+**Front-end (study):**<br><br>
+> React Native, NativeBase;<br><br>
+**Back-end:**<br><br>
+> Strapi<br><br>
+**Back-end (study):**<br><br>
+> NodeJs, AdonisJs, Spring Boot<br><br>
+**Skills:**<br><br>
+> Git, GitHub, Jira, Yarn, Npm<br><br>
 
 ![REACT](https://img.icons8.com/color/60/react-native.png)&nbsp;&nbsp;
 ![JAVASCRIPT](https://img.icons8.com/color/60/javascript--v1.png)&nbsp;&nbsp;
