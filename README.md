@@ -38,7 +38,7 @@ My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge
 
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-50.png)](https://www.instagram.com/abner.ananias/)&nbsp;&nbsp;&nbsp;
 [![Linkendin](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-50.png)](https://www.linkedin.com/in/abner-andre-ananias/)&nbsp;&nbsp;&nbsp;
-[![Gmail](https://cdn4.iconfinder.com/data/icons/logo-brand/512/gmail_google_mail_email-50.png)](mailto:abnerndr.dev@gmail.com)&nbsp;&nbsp;&nbsp;
+[![Gmail](https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-50.png)](mailto:abnerndr.dev@gmail.com)&nbsp;&nbsp;&nbsp;
 
 
 
