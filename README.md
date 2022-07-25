@@ -1,8 +1,8 @@
 # ABNER ANDRÉ ANANIAS
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerndr&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&layout=compact&theme=dark)](https://github.com/abnerndr/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerndr&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&layout=compact&theme=midnight-purple)](https://github.com/abnerndr/github-readme-stats)
 
 
 
