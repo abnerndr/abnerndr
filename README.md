@@ -15,12 +15,10 @@ My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge
 * My Skills and Leguages<br><br>
 > **Front-end:**<br><br>
 > React, NextJs, Ionic5, TailWind;<br><br>
-**Front-end (study):**<br><br>
-> React Native, NativeBase;<br><br>
 **Back-end:**<br><br>
 > Strapi<br><br>
-**Back-end (study):**<br><br>
-> NodeJs, AdonisJs, Spring Boot<br><br>
+**Study:**<br><br>
+>React Native, NativeBase, NodeJs, AdonisJs, Spring Boot<br><br>
 **Skills:**<br><br>
 > Git, GitHub, Jira, Yarn, Npm<br><br>
 
