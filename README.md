@@ -12,8 +12,8 @@
 My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge in the technology market, I'm always looking to evolve my knowledge and skills, I'm looking for a job in the technology area. I'm starting to study "Software Engineering" this year 2022, and I intend to commit myself and bring innovation and results to this area. See below for some of my skills.
 
 # Technologies:
-* My Skills and Leguages
-**Front-end:**<br><br>
+* My Skills and Leguages<br><br>
+> **Front-end:**<br><br>
 > React, NextJs, Ionic5, TailWind;<br><br>
 **Front-end (study):**<br><br>
 > React Native, NativeBase;<br><br>
