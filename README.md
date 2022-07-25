@@ -30,7 +30,7 @@ My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge
 
 ![GIT](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-60.png)&nbsp;&nbsp;
 ![STRAPI](https://i.im.ge/2022/07/25/FDGtmm.png)&nbsp;&nbsp;
-![NODEJS](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-60.png)&nbsp;&nbsp;
+![NODEJS](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-66.png)&nbsp;&nbsp;
 ![YARN](https://cdn.icon-icons.com/icons2/2699/PNG/64/yarnpkg_logo_icon_170667.png)
 
 
