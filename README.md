@@ -13,11 +13,16 @@ My name is Abner, I'm 20 years old. I'm looking for innovation and new knowledge
 
 # Technologies:
 
-* HTML5, CSS3, JavaScript;
-* Bootstrap, UX|UI Design;
-* IONIC, NextJS, ReactJS;
-* Git, Github, NPM;
-* MySQL, Notion;
+* Front-end:
+> React, NextJs, Ionic5, TailWind;
+* Front-end (study):
+> React Native, NativeBase;
+* Back-end:
+> Strapi
+* Back-end (study):
+> NodeJs, AdonisJs, Spring Boot
+* Skills:
+> Git, GitHub, Jira, Yarn, Npm
 
 ![REACT](https://img.icons8.com/color/60/react-native.png)&nbsp;&nbsp;
 ![JAVASCRIPT](https://img.icons8.com/color/60/javascript--v1.png)&nbsp;&nbsp;
