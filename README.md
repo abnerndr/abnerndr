@@ -37,7 +37,7 @@ My name is Abner, I'm 21 years old and I'm a systems analysis and development st
 ![POSTGRES](https://img.icons8.com/color/60/postgreesql.png)<br><br>
 
 ![GIT](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-60.png)&nbsp;&nbsp;
-![NPM](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-npm-a-package-manager-for-the-javascript-programming-language-logo-shadow-tal-revivo.png)&nbsp;&nbsp;
+![NPM](https://img.icons8.com/color/60/npm.png)&nbsp;&nbsp;
 ![YARN](https://cdn.icon-icons.com/icons2/2699/PNG/64/yarnpkg_logo_icon_170667.png)&nbsp;&nbsp;
 ![JEST](https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png)&nbsp;&nbsp;
 ![JIRA](https://img.icons8.com/color/60/jira.png)&nbsp;&nbsp;
@@ -46,7 +46,7 @@ My name is Abner, I'm 21 years old and I'm a systems analysis and development st
 # My Contacts:
 
 [![Instagram](https://img.icons8.com/arcade/60/instagram-new.png)](https://www.instagram.com/abner.ananias/)&nbsp;&nbsp;&nbsp;
-[![Linkendin](https://img.icons8.com/external-justicon-flat-justicon/60/external-linkedin-social-media-justicon-flat-justicon.png)](https://www.linkedin.com/in/abner-andre-ananias/)&nbsp;&nbsp;&nbsp;
+[![Linkendin](https://img.icons8.com/external-justicon-flat-justicon/40/external-linkedin-social-media-justicon-flat-justicon.png)](https://www.linkedin.com/in/abner-andre-ananias/)&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.icons8.com/3d-fluency/60/gmail.png)](mailto:abnerndr.dev@gmail.com)&nbsp;&nbsp;&nbsp;
 
 
