@@ -8,19 +8,19 @@
 
 
 
-# About:
-My name is Abner, I'm 21 years old and I'm a systems analysis and development student. I work with fullstack development for 1 year and I seek innovation and new knowledge in the technology market, I am always looking to evolve my knowledge and skills, I always want to reinvent myself and overcome myself and create new things and learn from them.
+# About Me:
+My name is Abner, I'm 21 years old, i live in Brasil and I'm a systems analysis and development student. I work with junior fullstack development for 1 year and I seek innovation and new knowledge in the technology market, I am always looking to evolve my knowledge and skills, I always want to reinvent myself and overcome myself and create new things and learn from them.
 
 
 # Technologies:
-* My Skills and Leguages<br><br>
+* My Programing Skills<br><br>
 > **Front-end:**<br><br>
 > React, NextJs, Ionic6, CapacitorJs, TailWind;<br><br>
-**Back-end:**<br><br>
+> **Back-end:**<br><br>
 > NodeJs, Strapi<br><br>
-**Study:**<br><br>
->React Native, NativeBase, NodeJs, AdonisJs, NestJs, Spring Boot<br><br>
-**Skills:**<br><br>
+> **Study:**<br><br>
+> React Native, NativeBase, NodeJs, AdonisJs, NestJs, Spring Boot<br><br>
+> **Externals Skills:**<br><br>
 > Git, GitHub, Jira, Yarn, Npm, Jest<br><br>
 
 ![REACT](https://img.icons8.com/color/60/react-native.png)&nbsp;&nbsp;
@@ -43,7 +43,7 @@ My name is Abner, I'm 21 years old and I'm a systems analysis and development st
 ![JIRA](https://img.icons8.com/color/60/jira.png)&nbsp;&nbsp;
 ![BITBUCKET](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-shadow-tal-revivo.png)
 
-# My Contacts:
+# Contact Me:
 
 [![Instagram](https://img.icons8.com/arcade/64/instagram-new.png)](https://www.instagram.com/abner.ananias/)&nbsp;&nbsp;&nbsp;
 [![Linkendin](https://img.icons8.com/fluency/60/linkedin.png)](https://www.linkedin.com/in/abner-andre-ananias/)&nbsp;&nbsp;&nbsp;
