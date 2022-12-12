@@ -47,7 +47,7 @@ My name is Abner, I'm 21 years old and I'm a systems analysis and development st
 
 [![Instagram](https://img.icons8.com/arcade/64/instagram-new.png)](https://www.instagram.com/abner.ananias/)&nbsp;&nbsp;&nbsp;
 [![Linkendin](https://img.icons8.com/fluency/60/linkedin.png)](https://www.linkedin.com/in/abner-andre-ananias/)&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.icons8.com/3d-fluency/60/gmail.png)](mailto:abnerndr.dev@gmail.com)&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.icons8.com/fluency/60/google-plus-squared.png)](mailto:abnerndr.dev@gmail.com)&nbsp;&nbsp;&nbsp;
 
 
 
