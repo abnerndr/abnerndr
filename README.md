@@ -13,15 +13,6 @@ Meu nome é Abner, tenho 22 anos e moro no Brasil. Sou estudante de Análise e D
 
 
 # Technologies:
-* My Programing Skills<br><br>
-> **Front-end:**<br><br>
-> React, NextJs, Ionic6, CapacitorJs, TailWind;<br><br>
-> **Back-end:**<br><br>
-> NodeJs, Strapi<br><br>
-> **Study:**<br><br>
-> React Native, NativeBase, NodeJs, AdonisJs, NestJs, Spring Boot<br><br>
-> **Externals Skills:**<br><br>
-> Git, GitHub, Jira, Yarn, Npm, Jest<br><br>
 
 ![REACT](https://img.icons8.com/color/60/react-native.png)&nbsp;&nbsp;
 ![JAVASCRIPT](https://img.icons8.com/color/60/javascript--v1.png)&nbsp;&nbsp;
