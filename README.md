@@ -9,7 +9,7 @@
 
 
 # About Me:
-My name is Abner, I'm 21 years old, i live in Brasil and I'm a systems analysis and development student. I work with junior fullstack development for 1 year and I seek innovation and new knowledge in the technology market, I am always looking to evolve my knowledge and skills, I always want to reinvent myself and overcome myself and create new things and learn from them.
+My name is Abner, I'm 22 years old, i live in Brasil and I'm a systems analysis and development student. I work with junior fullstack development for 1 year and I seek innovation and new knowledge in the technology market, I am always looking to evolve my knowledge and skills, I always want to reinvent myself and overcome myself and create new things and learn from them.
 
 
 # Technologies:
