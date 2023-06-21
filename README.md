@@ -24,7 +24,7 @@ Meu nome é Abner, tenho 22 anos e moro no Brasil. Sou estudante de Análise e D
 
 ![NODEJS](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-66.png)&nbsp;&nbsp;
 ![NESTJS](https://img.icons8.com/color/60/nestjs.png)&nbsp;&nbsp;
-![STRAPI](https://i.im.ge/2022/07/25/FDGtmm.png)&nbsp;&nbsp;
+![AWS](https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful-1/2048/5363_-_AWS-64.png)&nbsp;&nbsp;
 ![POSTGRES](https://img.icons8.com/color/60/postgreesql.png)<br><br>
 
 ![GIT](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-60.png)&nbsp;&nbsp;
