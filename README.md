@@ -18,7 +18,7 @@ Meu nome é Abner, tenho 22 anos e moro no Brasil. Sou estudante de Análise e D
 ![JAVASCRIPT](https://img.icons8.com/color/60/javascript--v1.png)&nbsp;&nbsp;
 ![IONIC](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo.png)
 ![TYPESCRIPT](https://img.icons8.com/fluency/60/typescript.png)&nbsp;&nbsp;
-![NEXTJS]([https://i.im.ge/2022/07/25/FIX1oh.png](https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-2/15/nextjs-64.png))&nbsp;&nbsp;
+![NEXTJS](https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-2/15/nextjs-64.png)&nbsp;&nbsp;
 ![ANDROID](https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_android-58.png)&nbsp;&nbsp;
 ![IOS](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/iOS-58.png)<br><br>
 
