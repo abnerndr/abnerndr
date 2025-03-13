@@ -9,13 +9,11 @@
 ## Sobre mim
 👋 Olá! Sou um desenvolvedor fullstack com mais de **4 anos de experiência**, atualmente atuando como **Tech Lead na LTZ Capital**. Minha especialidade é criar soluções tecnológicas para **ativos jurídicos e financeiros**, liderando equipes e desenvolvendo sistemas escaláveis.
 
-💼 Minha trajetória inclui participação na **Vitae**, trabalhando com **cashback e aplicativos mobile**. Hoje, foco em **web scraping jurídico, automação de extração de dados com LLM e desenvolvimento de plataformas financeiras para advogados**.
+💼 Trabalhando como <strong>Lider Técnico</strong> na <strong>LTZ Capital</strong>.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando <strong>Curso Superior de Tecnologia (CST), Análise de Sistemas de Computação</strong> na <strong>Pontifícia Universidade Católica do Paraná</strong>.
-- 💼 Trabalhando como <strong>Lider Técnico</strong> na <strong>LTZ Capital</strong>.
-- 🌱 Aprendendo mais sobre 
-  
+🎓 Estudando <strong>Curso Superior de Tecnologia (CST), Análise de Sistemas de Computação</strong> na <strong>Pontifícia Universidade Católica do Paraná</strong>.
+
+
 ## 💡 Tecnologias e Especialidades  
 **Stacks principais:**
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
@@ -23,18 +21,15 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Nextjs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextdotjs)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 <br/>
-
-**Arquitetura:** 
-![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microsoft-azure)
-![AzureStorage](https://img.shields.io/badge/-Azure%20Storage-333333?style=flat&logo=azure)
-![S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=amazons3)
-![AzureQueue](https://img.shields.io/badge/-Azure%20Queue-333333?style=flat&logo=microsoft-azure)
-![SQS](https://img.shields.io/badge/-AWS%20SQS-333333?style=flat&logo=amazonsqs)
-![AzureContainer](https://img.shields.io/badge/-Azure%20Container-333333?style=flat&logo=linuxcontainers)
-![Web Services](https://img.shields.io/badge/-AWS%20Web%20Services-333333?style=flat&logo=amazonwebservices)
+**Cloud e DevOps:** 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 <br/>
-
 **Bancos de Dados:** 
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -42,51 +37,33 @@
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 <br/>
-
-**Cloud & DevOps:**
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
-<br/>
-
 **Sistemas:** 
 ![LINUX](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![OSX](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
 ![WINDOWS](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
-
-## Minhas Skills
-
-**Aplicações e dados**
-
-
+## 🌱 Aprendendo mais sobre 
+**Stacks:**
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+<br/>
+**Arquitetura:** 
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+<br/>
+**Bancos de Dados:** 
+![Cassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apachecassandra)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+<br/>
 
-
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-
-**Ferramentas de desenvolvimento**
-
+## Ferramentas de desenvolvimento
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=visual-studio-code&logoColor=intellijidea)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=trello&logoColor=jira)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 <br/>
 
