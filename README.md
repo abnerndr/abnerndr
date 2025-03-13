@@ -4,9 +4,11 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ABNER A. ANANIAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na <strong>LTZ Capital</strong><br/> Eu sou Lider Técnico e Desenvolvedor FullStack</p>
+<p>Trabalhando na <strong>LTZ Capital</strong><br/> Eu sou <strong>Lider Técnico</strong> e <strong>Desenvolvedor FullStack</strong></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&layout=compact&theme=apprentice)](https://github.com/abnerndr/github-readme-stats)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&show_icons=true&title_color=1f1204&text_color=5b4b41&icon_color=1f1204&bg_color=F8EFD4&cache_seconds=2300" alt="ilustração do status do github">
+
 
 
 ### About Me:
