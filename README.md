@@ -16,25 +16,50 @@
 - 💼 Trabalhando como <strong>Lider Técnico</strong> na <strong>LTZ Capital</strong>.
 - 🌱 Aprendendo mais sobre [Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) [NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 ) [JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) [PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+
 ).
+## 💡 Tecnologias e Especialidades  
+✔️ **Stacks principais:**
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Nextjs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextdotjs)
+✔️ **Arquitetura:** 
+![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microsoft-azure)
+![Azure Storage](https://img.shields.io/badge/-Azure%Storage-333333?style=flat&logo=microsoft-azure-storage)
+![S3](https://img.shields.io/badge/-AWS&S3-333333?style=flat&logo=amazons3)
+![Azure Queue](https://img.shields.io/badge/-Azure%Queue-333333?style=flat&logo=microsoft-azure-queue)
+![SQS](https://img.shields.io/badge/-AWS%SQS-333333?style=flat&logo=amazonsqs)
+![Azure Container](https://img.shields.io/badge/-Azure%Container-333333?style=flat&logo=linuxcontainers)
+![Web Services](https://img.shields.io/badge/-AWS%Web%Services-333333?style=flat&logo=amazonwebservices)
+✔️ **Bancos de Dados:** 
+![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+✔️ **Cloud & DevOps:**
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
+✔️ **Sistemas:** 
+![LINUX](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![OSX](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
+![WINDOWS](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Java](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Nextjs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextdotjs)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 
 **Utilidades**
 
