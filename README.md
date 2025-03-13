@@ -73,7 +73,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/abner-andre-ananias/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/abner-andre-ananias/))
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/abner-andre-ananias/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/abner-andre-ananias/))
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abnerndr.dev@gmail.com)](mailto:abnerndr.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/abnerndr))
 
