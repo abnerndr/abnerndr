@@ -14,10 +14,8 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando <strong>Curso Superior de Tecnologia (CST), Análise de Sistemas de Computação</strong> na <strong>Pontifícia Universidade Católica do Paraná</strong>.
 - 💼 Trabalhando como <strong>Lider Técnico</strong> na <strong>LTZ Capital</strong>.
-- 🌱 Aprendendo mais sobre [Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) [NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-) [JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) [PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-
-).
+- 🌱 Aprendendo mais sobre 
+  
 ## 💡 Tecnologias e Especialidades  
 ✔️ **Stacks principais:**
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
@@ -28,11 +26,11 @@
 <br/>
 ✔️ **Arquitetura:** 
 ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microsoft-azure)
-![Azure-Storage](https://img.shields.io/badge/-Azure%Storage-333333?style=flat&logo=microsoft-azure)
+![AzureStorage](https://img.shields.io/badge/-Azure%Storage-333333?style=flat&logo=microsoft-azure)
 ![S3](https://img.shields.io/badge/-AWS&S3-333333?style=flat&logo=amazons3)
-![Azure-Queue](https://img.shields.io/badge/-Azure%Queue-333333?style=flat&logo=microsoft-azure)
+![AzureQueue](https://img.shields.io/badge/-Azure%Queue-333333?style=flat&logo=microsoft-azure)
 ![SQS](https://img.shields.io/badge/-AWS%SQS-333333?style=flat&logo=amazonsqs)
-![Azure-Container](https://img.shields.io/badge/-Azure%Container-333333?style=flat&logo=linuxcontainers)
+![AzureContainer](https://img.shields.io/badge/-Azure%Container-333333?style=flat&logo=linuxcontainers)
 ![Web Services](https://img.shields.io/badge/-AWS%Web%Services-333333?style=flat&logo=amazonwebservices)
 <br/>
 ✔️ **Bancos de Dados:** 
