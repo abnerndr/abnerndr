@@ -65,10 +65,10 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 <br/>
-https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact
+
 ## Mais
 <a href="https://github.com/abnerndr" title="Perfil do Abner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&layout=compact&title_color=1f1204&text_color=5b4b41&icon_color=1f1204&bg_color=F8EFD4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&layout=compact&theme=graywhite" />
 </a>
 
 ## Onde me encontrar
