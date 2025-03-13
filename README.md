@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ABNER A. ANANIAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na LTZ Capital<br/> Eu sou Lider Técnico e Desenvolvedor FullStack</p>
+<p>Trabalhando na <strong>LTZ Capital</strong><br/> Eu sou Lider Técnico e Desenvolvedor FullStack</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&layout=compact&theme=apprentice)](https://github.com/abnerndr/github-readme-stats)
 
