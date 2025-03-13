@@ -64,16 +64,16 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
 <br/>
 
+## Mais
 <a href="https://github.com/abnerndr" title="Perfil do Abner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerndr&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerndr&theme=dracula&show_icons=true&title_color=1f1204&text_color=5b4b41&icon_color=1f1204&bg_color=F8EFD4" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/abner-andre-ananias/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/abner-andre-ananias/))
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/abner-andre-ananias/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/abner-andre-ananias/))
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abnerndr.dev@gmail.com)](mailto:abnerndr.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/abnerndr))
 
