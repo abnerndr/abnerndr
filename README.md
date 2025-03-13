@@ -7,7 +7,7 @@
 <p>Trabalhando na <strong>LTZ Capital</strong><br/> Eu sou <strong>Lider Técnico</strong> e <strong>Desenvolvedor FullStack</strong></p>
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&show_icons=true&title_color=1f1204&text_color=5b4b41&icon_color=1f1204&bg_color=F8EFD4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&title_color=1f1204&text_color=5b4b41&icon_color=1f1204&bg_color=F8EFD4&cache_seconds=2300" alt="ilustração do status do github">
 
 
 
