@@ -6,10 +6,6 @@
 
 <p>Trabalhando na <strong>LTZ Capital</strong><br/> Eu sou <strong>Lider Técnico</strong> e <strong>Desenvolvedor FullStack</strong></p>
 
-
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&title_color=1f1204&text_color=5b4b41&icon_color=1f1204&bg_color=F8EFD4&cache_seconds=2300" alt="ilustração do status do github">
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 👋 Olá! Sou um desenvolvedor fullstack com mais de **4 anos de experiência**, atualmente atuando como **Tech Lead na LTZ Capital**. Minha especialidade é criar soluções tecnológicas para **ativos jurídicos e financeiros**, liderando equipes e desenvolvendo sistemas escaláveis.
 
@@ -62,8 +58,8 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/abnerndr" title="Perfil do Abner">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerndr&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
