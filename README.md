@@ -17,14 +17,15 @@
 - 🌱 Aprendendo mais sobre 
   
 ## 💡 Tecnologias e Especialidades  
-✔️ **Stacks principais:**
+**Stacks principais:**
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Nextjs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextdotjs)
+
 <br/>
-✔️ **Arquitetura:** 
+**Arquitetura:** 
 ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microsoft-azure)
 ![AzureStorage](https://img.shields.io/badge/-Azure%20Storage-333333?style=flat&logo=azure)
 ![S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=amazons3)
@@ -32,22 +33,26 @@
 ![SQS](https://img.shields.io/badge/-AWS%20SQS-333333?style=flat&logo=amazonsqs)
 ![AzureContainer](https://img.shields.io/badge/-Azure%20Container-333333?style=flat&logo=linuxcontainers)
 ![Web Services](https://img.shields.io/badge/-AWS%20Web%20Services-333333?style=flat&logo=amazonwebservices)
+
 <br/>
-✔️ **Bancos de Dados:** 
+**Bancos de Dados:** 
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 <br/>
-✔️ **Cloud & DevOps:**
+**Cloud & DevOps:**
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
+
 <br/>
-✔️ **Sistemas:** 
+**Sistemas:** 
 ![LINUX](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![OSX](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
 ![WINDOWS](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+
 
 ## Minhas Skills
 
