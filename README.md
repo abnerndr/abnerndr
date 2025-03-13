@@ -1,13 +1,13 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=abnerndr&show_icons=true&title_color=1f1204&text_color=5b4b41&icon_color=1f1204&bg_color=F8EFD4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Olá, meu nome é Abner!
+## 🚀 Olá, meu nome é Abner!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ABNER A. ANANIAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na <strong>LTZ Capital</strong><br/> Eu sou <strong>Lider Técnico</strong> e <strong>Desenvolvedor FullStack</strong></p>
 
 ## Sobre mim
-👋 Olá! Sou um desenvolvedor fullstack com mais de **4 anos de experiência**, atualmente atuando como **Tech Lead na LTZ Capital**. Minha especialidade é criar soluções tecnológicas para **ativos jurídicos e financeiros**, liderando equipes e desenvolvendo sistemas escaláveis.
+👋 Olá! Sou um desenvolvedor fullstack com mais de **+ 5 anos de experiência** com desenvolvimento javascript, atualmente atuando como **Tech Lead na LTZ Capital**. Minha especialidade é criar soluções tecnológicas para **ativos jurídicos e financeiros**, liderando equipes e desenvolvendo sistemas escaláveis.
 
 💼 Trabalhando como <strong>Lider Técnico</strong> na <strong>LTZ Capital</strong>.
 
@@ -59,7 +59,7 @@
 
 ## Ferramentas de desenvolvimento
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=visual-studio-code&logoColor=intellijidea)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=visual-studio-code&logoColor=intellij-idea)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=trello&logoColor=jira)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
