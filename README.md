@@ -26,8 +26,8 @@
 <br/>
 ✔️ **Arquitetura:** 
 ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microsoft-azure)
-![AzureStorage](https://img.shields.io/badge/-Azure%Storage-333333?style=flat&logo=microsoft-azure)
-![S3](https://img.shields.io/badge/-AWS&S3-333333?style=flat&logo=amazons3)
+![AzureStorage](https://img.shields.io/badge/-Azure%Storage-333333?style=flat&logo=azure)
+![S3](https://img.shields.io/badge/-AWS%S3-333333?style=flat&logo=amazons3)
 ![AzureQueue](https://img.shields.io/badge/-Azure%Queue-333333?style=flat&logo=microsoft-azure)
 ![SQS](https://img.shields.io/badge/-AWS%SQS-333333?style=flat&logo=amazonsqs)
 ![AzureContainer](https://img.shields.io/badge/-Azure%Container-333333?style=flat&logo=linuxcontainers)
