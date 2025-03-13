@@ -28,11 +28,11 @@
 <br/>
 ✔️ **Arquitetura:** 
 ![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microsoft-azure)
-![Azure Storage](https://img.shields.io/badge/-Azure%Storage-333333?style=flat&logo=microsoft-azure)
+![Azure-Storage](https://img.shields.io/badge/-Azure%Storage-333333?style=flat&logo=microsoft-azure)
 ![S3](https://img.shields.io/badge/-AWS&S3-333333?style=flat&logo=amazons3)
-![Azure Queue](https://img.shields.io/badge/-Azure%Queue-333333?style=flat&logo=microsoft-azure)
+![Azure-Queue](https://img.shields.io/badge/-Azure%Queue-333333?style=flat&logo=microsoft-azure)
 ![SQS](https://img.shields.io/badge/-AWS%SQS-333333?style=flat&logo=amazonsqs)
-![Azure Container](https://img.shields.io/badge/-Azure%Container-333333?style=flat&logo=linuxcontainers)
+![Azure-Container](https://img.shields.io/badge/-Azure%Container-333333?style=flat&logo=linuxcontainers)
 ![Web Services](https://img.shields.io/badge/-AWS%Web%Services-333333?style=flat&logo=amazonwebservices)
 <br/>
 ✔️ **Bancos de Dados:** 
