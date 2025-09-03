@@ -2,7 +2,7 @@
 
 ### 🚀 Olá, meu nome é Abner!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=ABNER A. ANANIAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img align='left' src="https://img.shields.io/static/v1?label=Overview&message=ABNER A. ANANIAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estou aberto a propóstas<br/> Eu sou <strong>Desenvolvedor FullStack</strong></p>
 
