@@ -4,12 +4,12 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ABNER A. ANANIAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na <strong>LTZ Capital</strong><br/> Eu sou <strong>Lider Técnico</strong> e <strong>Desenvolvedor FullStack</strong></p>
+<p>Estou aberto a propóstas<br/> Eu sou <strong>Desenvolvedor FullStack</strong></p>
 
 ## Sobre mim
-👋 Olá! Sou um desenvolvedor fullstack com mais de **+ 5 anos de experiência** com desenvolvimento javascript, atualmente atuando como **Tech Lead na LTZ Capital**. Minha especialidade é criar soluções tecnológicas para **ativos jurídicos e financeiros**, liderando equipes e desenvolvendo sistemas escaláveis.
+👋 Olá! Sou um desenvolvedor fullstack com mais de **+ 4 anos de experiência** com desenvolvimento javascript/typescript, meu ultimo trabalho foi como **Tech Lead na LTZ Capital**. Minha especialidade é criar soluções tecnológicas como **saas, crm, entre outros...**, liderando equipes e desenvolvendo sistemas escaláveis.
 
-💼 Trabalhando como <strong>Lider Técnico</strong> na <strong>LTZ Capital</strong>.
+💼 Procurando uma oportunidade como <strong>Desenvolvedor FullStack</strong> no momento.
 
 🎓 Estudando <strong>Curso Superior de Tecnologia (CST), Análise de Sistemas de Computação</strong> na <strong>Pontifícia Universidade Católica do Paraná</strong>.
 
