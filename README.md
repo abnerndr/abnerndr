@@ -1,4 +1,4 @@
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=abnerndr&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Estatísticas do GitHub de Abner André Ananias" />
+<img align="right" width="380" src="https://github-stats-extended.vercel.app/api?username=abnerndr&show_icons=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub de Abner André Ananias" />
 
 # Abner André Ananias
 
@@ -58,7 +58,7 @@ Também trabalho com PHP (quando o projeto pede), Jest, REST APIs e CI/CD. Em fo
 
 ## Linguagens
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerndr&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Linguagens mais usadas nos repositórios públicos" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abnerndr&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Linguagens mais usadas nos repositórios públicos" />
 
 ## Contato
 
