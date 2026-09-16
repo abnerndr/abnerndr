@@ -1,5 +1,3 @@
-<img align="right" width="380" src="https://github-stats-extended.vercel.app/api?username=abnerndr&show_icons=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub de Abner André Ananias" />
-
 # Abner André Ananias
 
 **Full Stack Developer** · TypeScript · React · Next.js · Node.js · NestJS
@@ -56,9 +54,18 @@ Mais contexto e demais trabalhos: [abnerndr.com](https://abnerndr.com).
 
 Também trabalho com PHP (quando o projeto pede), Jest, REST APIs e CI/CD. Em formação na PUCPR, aprofundo arquitetura de software, Java, Python e experiência do usuário.
 
-## Linguagens
+## GitHub
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abnerndr&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Linguagens mais usadas nos repositórios públicos" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=abnerndr&show_icons=true&hide_border=true&hide_rank=true&locale=pt-br&title_color=E6EDF3&text_color=9198A1&icon_color=4493F8&bg_color=00000000">
+    <img height="165" alt="Estatísticas do GitHub de Abner André Ananias" src="https://github-stats-extended.vercel.app/api?username=abnerndr&show_icons=true&hide_border=true&hide_rank=true&locale=pt-br&title_color=1F2328&text_color=656D76&icon_color=0969DA&bg_color=00000000">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=abnerndr&layout=compact&hide_border=true&locale=pt-br&title_color=E6EDF3&text_color=9198A1&bg_color=00000000&langs_count=6">
+    <img height="165" alt="Linguagens mais usadas nos repositórios públicos" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abnerndr&layout=compact&hide_border=true&locale=pt-br&title_color=1F2328&text_color=656D76&bg_color=00000000&langs_count=6">
+  </picture>
+</p>
 
 ## Contato
 
